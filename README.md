@@ -2,7 +2,7 @@
 
 This is an e-commerce website built using React and hosted on Firebase. It allows users to [briefly describe the main functionality or purpose of your website].
 
-![Screenshot](Screenshot (8).png)
+![Screenshot](Screenshot (8))
 
 ## Table of Contents
 - [Demo](#demo)
