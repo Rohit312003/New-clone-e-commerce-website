@@ -49,7 +49,7 @@ This e-commerce website uses React for the front end and Firebase for hosting an
 ## Technologies Used
 - React
 - Firebase (Firebase Authentication, Firestore, Firebase Hosting)
-- [Other technologies you used]
+
 
 
 
