@@ -2,7 +2,7 @@
 
 This is an e-commerce website built using React and hosted on Firebase. It allows users to [briefly describe the main functionality or purpose of your website].
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot (8).png)
 
 ## Table of Contents
 - [Demo](#demo)
@@ -18,7 +18,7 @@ This is an e-commerce website built using React and hosted on Firebase. It allow
 ## Demo
 [Link to the live demo of your website on Firebase]([https://your-website.firebaseapp.com](https://e-challange-312003.web.app/))
 
-[Optional: Include additional links to demo videos or screenshots.]
+
 
 ## Features
 - List the key features of your e-commerce website.
