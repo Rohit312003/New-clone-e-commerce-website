@@ -16,7 +16,7 @@ This is an e-commerce website built using React and hosted on Firebase. It allow
 - [License](#license)
 
 ## Demo
-[Link to the live demo of your website on Firebase](https://your-website.firebaseapp.com)
+[Link to the live demo of your website on Firebase]([https://your-website.firebaseapp.com](https://e-challange-312003.web.app/))
 
 [Optional: Include additional links to demo videos or screenshots.]
 
