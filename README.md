@@ -15,7 +15,7 @@ This e-commerce website uses React for the front end and Firebase for hosting an
 
 
 ## Demo
-[Link to the live demo of your website on Firebase]([https://your-website.firebaseapp.com](https://e-challange-312003.web.app/))
+[Link to the live demo of your website on Firebase](https://e-challange-312003.web.app/)
 
 
 
